@@ -1,0 +1,4 @@
+C:\Users\eahscs\documents\visual studio 2010\Projects\Chapter4\Chapter4\bin\Debug\Chapter4.exe
+C:\Users\eahscs\documents\visual studio 2010\Projects\Chapter4\Chapter4\bin\Debug\Chapter4.pdb
+C:\Users\eahscs\documents\visual studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\Chapter4.exe
+C:\Users\eahscs\documents\visual studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\Chapter4.pdb
