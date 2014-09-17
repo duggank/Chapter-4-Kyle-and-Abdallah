@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-4-Kyle-and-Abdallah\Chapter4\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4-Kyle-and-Abdallah\Chapter4\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-4-Kyle-and-Abdallah\Chapter4\MultiplicationTable\obj\x86\Debug\MultiplicationTable.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4-Kyle-and-Abdallah\Chapter4\MultiplicationTable\obj\x86\Debug\MultiplicationTable.pdb

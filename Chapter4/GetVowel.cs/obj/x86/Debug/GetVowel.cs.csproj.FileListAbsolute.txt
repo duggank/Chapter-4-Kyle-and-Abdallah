@@ -2,3 +2,7 @@ C:\Users\eahscs\documents\visual studio 2010\Projects\Chapter4\GetVowel.cs\bin\D
 C:\Users\eahscs\documents\visual studio 2010\Projects\Chapter4\GetVowel.cs\bin\Debug\GetVowel.cs.pdb
 C:\Users\eahscs\documents\visual studio 2010\Projects\Chapter4\GetVowel.cs\obj\x86\Debug\GetVowel.cs.exe
 C:\Users\eahscs\documents\visual studio 2010\Projects\Chapter4\GetVowel.cs\obj\x86\Debug\GetVowel.cs.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-4-Kyle-and-Abdallah\Chapter4\GetVowel.cs\obj\x86\Debug\GetVowel.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4-Kyle-and-Abdallah\Chapter4\GetVowel.cs\obj\x86\Debug\GetVowel.cs.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-4-Kyle-and-Abdallah\Chapter4\GetVowel.cs\bin\Debug\GetVowel.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4-Kyle-and-Abdallah\Chapter4\GetVowel.cs\bin\Debug\GetVowel.cs.pdb
