@@ -9,11 +9,24 @@ namespace Perfect
     {
         static void Main(string[] args)
         {
-            int n;
+            int n = 1000;
             int sum = 0;
-            for (int i = 1; i <= 6; i++) 
+            for (int i = 1; i < n; i++) 
             {
-                
+                sum = 0;
+
+                for (int factor = 1; factor < i; factor++) 
+                {
+                    if (i % factor == 0) 
+                    {
+                        sum += factor;
+                    }
+                }
+
+                if (sum == i)
+                {
+                    Console.WriteLine(i);
+                }
             }
         }
     }
