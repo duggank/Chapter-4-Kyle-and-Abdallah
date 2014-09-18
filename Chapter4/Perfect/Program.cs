@@ -10,8 +10,9 @@ namespace Perfect
         static void Main(string[] args)
         {
             int n;
-            for (int i = 1; i <= 1000; i++) 
-            { 
+            int sum = 0;
+            for (int i = 1; i <= 6; i++) 
+            {
                 
             }
         }
