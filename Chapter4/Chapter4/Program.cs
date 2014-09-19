@@ -24,8 +24,8 @@ namespace Chapter4
                         total += user;
                 Console.WriteLine(total);
 
-                if (total >= 999)
-                    break;
+                //if (total >= 999)
+                //    break;
             }
         }
     }

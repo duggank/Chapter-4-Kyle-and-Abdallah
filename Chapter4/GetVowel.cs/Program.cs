@@ -18,6 +18,7 @@ namespace GetVowel.cs
                 input = Console.ReadLine();
                 user = Convert.ToChar(input);
 
+
                 if (user == '!')
                     break;
 
